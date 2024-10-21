@@ -1,0 +1,8 @@
+com\micromessage\communication\model\User.class
+com\micromessage\communication\service\YodelrService.class
+com\micromessage\communication\controller\YodelrController.class
+com\micromessage\communication\interfaces\YodelrInterface.class
+com\micromessage\communication\model\Post.class
+com\micromessage\communication\exception\YodelrException.class
+com\micromessage\communication\Yodelr.class
+com\micromessage\communication\configuration\SwaggerConfig.class
