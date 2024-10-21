@@ -9,7 +9,7 @@ This project provides a REST API for a micro-messaging platform called Yodelr. I
 
 ### Installation
 
-1. Download and unzip the Yodelr project.
+1. Download or Clone the repository.
 2. Compile the project using Maven from project directory:
 	- mvn clean install
 	
